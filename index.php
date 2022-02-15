@@ -1,3 +1,3 @@
 <?php
-echo "Selamat datang";
+echo "Selamat datang di Hotel Nelita";
 ?>
